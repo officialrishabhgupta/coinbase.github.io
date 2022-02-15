@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/coinbase.github.io/static/css/main.290273b2.css",
+    "main.js": "/coinbase.github.io/static/js/main.bf71df7a.js",
+    "static/media/crypto.jpg": "/coinbase.github.io/static/media/crypto.8e67f4712dfc65d6273a.jpg",
+    "index.html": "/coinbase.github.io/index.html",
+    "main.290273b2.css.map": "/coinbase.github.io/static/css/main.290273b2.css.map",
+    "main.bf71df7a.js.map": "/coinbase.github.io/static/js/main.bf71df7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290273b2.css",
+    "static/js/main.bf71df7a.js"
+  ]
+}
